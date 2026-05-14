@@ -20,7 +20,7 @@ A typing practice web app built with Python (PySide6) and ported to a single-fil
 
 ## Demo
 
-Visit the live site at: `https://yourusername.github.io/keyboard-master`
+Visit the live site at: `https://simjedo.github.io/keyboard-master`
 
 ## Usage
 
